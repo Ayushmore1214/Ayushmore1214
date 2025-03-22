@@ -1,53 +1,58 @@
-<h1 align="center">👋 Hey there! I'm Ayush More</h1>
+<h1 align="center">🚀 Hey, I'm Ayush More</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00AEEF&center=true&vCenter=true&width=440&lines=Aspiring+Python+Developer;Open+Source+Contributor;Lifelong+Learner+%F0%9F%93%9A;Building+cool+projects+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FFE3&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Python+Developer+%7C+Open-Source+Contributor;Tech+Enthusiast+%7C+Lifelong+Learner;Building+cool+projects+with+clean+code!" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 About Me  
-- 🎓 Computer science student & aspiring **Python Developer**  
+## 👨‍💻 About Me
+- 🎯 Focused on **Python**, **Flask**, and Open-Source development  
 - 🛠 Currently contributing to **CPython**, **Black**, and **yt-dlp**  
-- 🌱 Learning **Flask**, **OOP in Python**, and **DevOps tools**  
-- 🤝 Looking to collaborate on beginner-friendly, Python-based projects  
-- 🌍 Attending tech expos and learning from real-world events  
+- 🚀 Learning **OOP**, **DevOps**, and backend magic  
+- 💡 I love exploring tech events and turning ideas into reality  
+- 🌱 Always curious, always learning  
 
 ---
 
-## 🛠️ Languages & Tools I Use:
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+## 🧰 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white" />
 </p>
 
 ---
 
-## 📫 How to Reach Me
-- 📧 Email: [ayushmore42595@gmail.com](mailto:ayushmore42595@gmail.com)  
-- 💼 LinkedIn: [ayush-more-3b4154341](https://www.linkedin.com/in/ayush-more-3b4154341)  
-- 🌐 GitHub: [@Ayushmore1214](https://github.com/Ayushmore1214)  
-
----
-
-## 📈 My GitHub Stats
+## 🔗 Connect with Me
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayushmore1214&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushmore1214&theme=tokyonight" alt="GitHub Streak" />
+  <a href="mailto:ayushmore42595@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ayush-more-3b4154341"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Ayushmore1214"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
-## 🎯 Fun Fact  
-> I love turning simple ideas into cool projects — one line of code at a time! 🚀  
+## 📊 GitHub Insights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayushmore1214&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushmore1214&theme=radical" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushmore1214&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## ⚡ Fun Fact  
+> My favorite debugging tool? Explaining the problem out loud until my brain fixes it! 🤖  
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00aaff&height=150&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&height=140&section=footer" />
 </p>
