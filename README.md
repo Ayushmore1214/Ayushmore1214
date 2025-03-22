@@ -29,7 +29,7 @@
 ---
 
 ## 📫 How to Reach Me
-- 📧 Email: [moreayush1214@gmail.com](mailto:moreayush1214@gmail.com)  
+- 📧 Email: [ayushmore42595@gmailcom](mailto:moreayush1214@gmail.com)  
 - 💼 LinkedIn: [ayushmore1214](https://www.linkedin.com/in/ayushmore1214)  
 - 🌐 GitHub: [@Ayushmore1214](https://github.com/Ayushmore1214)  
 
