@@ -29,16 +29,6 @@
 
 ---
 
-## 🔗 Connect with Me
-<p align="center">
-  <a href="mailto:ayushmore42595@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/ayush-more-3b4154341"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Ayushmore1214"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://heyyayush.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
-</p>
-
----
-
 ## 📊 GitHub Insights
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ayushmore1214&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -52,6 +42,16 @@
 
 ## ⚡ Fun Fact  
 > My go-to fix for CI pipeline failures? A cup of chai, deep breath, and another `git push` ☕🐧  
+
+---
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="mailto:ayushmore42595@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ayush-more-3b4154341"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Ayushmore1214"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://heyyayush.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
+</p>
 
 ---
 
