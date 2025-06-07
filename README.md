@@ -1,29 +1,30 @@
 <h1 align="center">🚀 Hey, I'm Ayush More</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FFE3&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Python+Developer+%7C+Open-Source+Contributor;Tech+Enthusiast+%7C+Lifelong+Learner;Building+cool+projects+with+clean+code!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FFE3&center=true&vCenter=true&multiline=true&width=600&height=80&lines=DevOps+Enthusiast+%7C+Cloud+Learner;Open-Source+Contributor+%7C+CI%2FCD+Explorer;Building+Resilient+Infra+with+Modern+Tools!" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🎯 Focused on **Python**, **Flask**, and Open-Source development  
-- 🛠 Currently contributing to **CPython**, **Black**, and **yt-dlp**  
-- 🚀 Learning **OOP**, **DevOps**, and backend magic  
-- 💡 I love exploring tech events and turning ideas into reality  
+- ⚙️ Diving deep into **DevOps**, **Cloud**, and Automation  
+- 🛠 Currently contributing to **Meshery**, **Keploy**, and other CNCF projects  
+- 📦 Exploring tools like **Docker**, **Kubernetes**, **Helm**, and **GitHub Actions**  
+- 🚀 Practicing infrastructure as code, clean workflows, and containerized apps  
 - 🌱 Always curious, always learning  
 
 ---
 
 ## 🧰 Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white" />
 </p>
 
 ---
@@ -33,6 +34,7 @@
   <a href="mailto:ayushmore42595@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/ayush-more-3b4154341"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/Ayushmore1214"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://heyyayush.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
 </p>
 
 ---
@@ -49,7 +51,7 @@
 ---
 
 ## ⚡ Fun Fact  
-> My favorite debugging tool? Explaining the problem out loud until my brain fixes it! 🤖  
+> My go-to fix for CI pipeline failures? A cup of chai, deep breath, and another `git push` ☕🐧  
 
 ---
 
