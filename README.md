@@ -40,6 +40,15 @@
 
 ---
 
+## 🏅 Achievements
+<p align="center">
+  <a href="https://cloud.layer5.io/user/694282e3-0c6b-4893-9bea-7ac2da1f5aae?tab=badges&badge=continuous-contributor">
+    <img src="https://badges.layer5.io/assets/badges/continuous-contributor/continuous-contributor.png" width="150" alt="Meshery Continuous Contributor Badge" />
+  </a>
+  <br>
+  <b>Meshery Continuous Contributor</b>
+</p>
+
 ## ⚡ Fun Fact  
 > My go-to fix for CI pipeline failures? A cup of chai, deep breath, and another `git push` ☕🐧  
 
@@ -58,3 +67,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&height=140&section=footer" />
 </p>
+
+## 🏅 Achievements
+
+
+
