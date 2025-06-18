@@ -68,7 +68,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&height=140&section=footer" />
 </p>
 
-## 🏅 Achievements
+
 
 
 
