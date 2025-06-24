@@ -7,11 +7,11 @@
 ---
 
 ## 👨‍💻 About Me
-- ⚙️ Diving deep into **DevOps**, **Cloud**, and Automation  
-- 🛠 Currently contributing to **Meshery**, **Keploy**, and other CNCF projects  
-- 📦 Exploring tools like **Docker**, **Kubernetes**, **Helm**, and **GitHub Actions**  
-- 🚀 Practicing infrastructure as code, clean workflows, and containerized apps  
-- 🌱 Always curious, always learning . 
+-  Diving deep into **DevOps**, **Cloud**, and Automation  
+-  Currently contributing to **Meshery**, **Keploy**, and other CNCF projects  
+-  Exploring tools like **Docker**, **Kubernetes**, **Helm**, and **GitHub Actions**
+-  Practicing infrastructure as code, clean workflows, and containerized apps  
+-  Always curious, always learning . 
 
 ---
 
