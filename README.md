@@ -15,25 +15,44 @@
 
 ---
 
-## 🧰 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+##  My Latest Blog Posts 👇
+
+<!-- HASHNODE_BLOG:START -->
+
+<p align="left">
+  <a href="https://heyyayush.hashnode.dev/kubernetes-101-a-no-nonsense-guide-from-one-beginner-to-another" title="Kubernetes 101">
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1748080123801/64463bf2-79c4-472c-8e43-429e0751af5c.png?w=800&h=420&fit=crop&crop=entropy&auto=compress,format&format=webp" width="250px" align="left" />
+  </a>
+  <a href="https://heyyayush.hashnode.dev/kubernetes-101-a-no-nonsense-guide-from-one-beginner-to-another" title="Kubernetes 101">
+    <strong>Kubernetes 101: A No-Nonsense Guide from One Beginner to Another</strong>
+  </a>
+  <br/> Beginner-friendly breakdown of Kubernetes with simple language and analogies. Great for anyone starting out in DevOps.
 </p>
 
----
+</br></br>
+
+<p align="left">
+  <a href="https://heyyayush.hashnode.dev/my-devops-journey-from-hello-world-to-hello-docker" title="DevOps Journey">
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1747134544857/10badd37-9682-48bd-9a49-fa9e6fba541d.png?w=800&h=420&fit=crop&crop=entropy&auto=compress,format&format=webp" width="250px" align="left" />
+  </a>
+  <a href="https://heyyayush.hashnode.dev/my-devops-journey-from-hello-world-to-hello-docker" title="DevOps Journey">
+    <strong>My DevOps Journey: From Hello World to Hello Docker</strong>
+  </a>
+  <br/> My journey into DevOps — learning Docker, breaking things, and gaining hands-on experience from scratch.
+</p>
+</br>
+<br >
+<br />
+
+
+
+<!-- HASHNODE_BLOG:END -->
 
 ## 📊 GitHub Insights
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ayushmore1214&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Ayushmore1214&theme=radical" alt="GitHub Streak" />
+ <img src="https://raw.githubusercontent.com/Ayushmore1214/Ayushmore1214/output/github-contribution-grid-snake.svg" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushmore1214&layout=compact&theme=radical" alt="Top Languages" />
 </p>
