@@ -48,7 +48,6 @@
 
 <!-- HASHNODE_BLOG:END -->
 
-## 📊 GitHub Insights
 ## 📊 GitHub Stats
 
 <p align="center">
