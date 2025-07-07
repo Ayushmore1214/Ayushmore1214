@@ -11,7 +11,7 @@
 -  Currently contributing to **Meshery**, **Keploy**, and other CNCF projects  
 -  Exploring tools like **Docker**, **Kubernetes**, **Helm**, and **GitHub Actions**
 -  Practicing infrastructure as code, clean workflows, and containerized apps  
--  Always curious, always learning . 
+-  Always curious, always learning 
 
 ---
 
@@ -32,13 +32,13 @@
 </br></br>
 
 <p align="left">
-  <a href="https://heyyayush.hashnode.dev/my-devops-journey-from-hello-world-to-hello-docker" title="DevOps Journey">
-    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1747134544857/10badd37-9682-48bd-9a49-fa9e6fba541d.png?w=800&h=420&fit=crop&crop=entropy&auto=compress,format&format=webp" width="250px" align="left" />
+  <a href="https://heyyayush.hashnode.dev/getting-started-with-github-actions-your-first-workflow-explained" title="GitHub Actions Beginner Guide" title="GitHub Actions Beginner Guide">
+    <img src="https://i.postimg.cc/Df4LYnk4/Github-Actions.webp?w=800&h=420&fit=crop&crop=entropy&auto=compress,format&format=webp" width="250px" align="left" />
   </a>
-  <a href="https://heyyayush.hashnode.dev/my-devops-journey-from-hello-world-to-hello-docker" title="DevOps Journey">
-    <strong>My DevOps Journey: From Hello World to Hello Docker</strong>
+  <a href="https://heyyayush.hashnode.dev/getting-started-with-github-actions-your-first-workflow-explained" title="DevOps Journey">
+    <strong>Getting Started with GitHub Actions: Your First Workflow Explained</strong>
   </a>
-  <br/> My journey into DevOps — learning Docker, breaking things, and gaining hands-on experience from scratch.
+  <br/> A beginner-friendly guide to GitHub Actions, CI/CD, and automating your Docker builds — with real examples and visuals.
 </p>
 </br>
 <br >
