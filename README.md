@@ -75,7 +75,7 @@
 </p>
 
 ## ⚡ Fun Fact  
-> My go-to fix for CI pipeline failures? A cup of chai, deep breath, and another `git push` ☕🐧  
+> My go-to fix for CI pipeline failures? A cup of chai, deep breath, and another `git push` ☕
 
 ---
 
