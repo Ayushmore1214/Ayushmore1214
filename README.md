@@ -66,13 +66,32 @@
 ---
 
 ## 🏅 Achievements
+## 🏅 Achievements
+
 <p align="center">
+  <!-- Meshery Continuous Contributor Badge -->
   <a href="https://cloud.layer5.io/user/694282e3-0c6b-4893-9bea-7ac2da1f5aae?tab=badges&badge=continuous-contributor">
     <img src="https://badges.layer5.io/assets/badges/continuous-contributor/continuous-contributor.png" width="150" alt="Meshery Continuous Contributor Badge" />
   </a>
-  <br>
-  <b>Meshery Continuous Contributor</b>
+  <!-- Spacer between badges -->
+  <span style="display:inline-block; width:40px;"></span>
+  <!-- First Design Badge -->
+  <a href="https://cloud.layer5.io/user/694282e3-0c6b-4893-9bea-7ac2da1f5aae?tab=badges&badge=first-design">
+    <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" width="150" alt="    First Design Badge" />
+  </a>
 </p>
+
+<!-- Extra space between badges and text -->
+<div align="center" style="margin-bottom: 20px; margin-top: 20px;"></div>
+
+<p align="center">
+  <b>Meshery Continuous Contributor</b>
+  <span style="display:inline-block; width:30px;"></span>
+  <b>|</b>
+  <span style="display:inline-block; width:30px;"></span>
+  <b>Meshery First Design</b>
+</p>
+
 
 ## ⚡ Fun Fact  
 > My go-to fix for CI pipeline failures? A cup of chai, deep breath, and another `git push` ☕
