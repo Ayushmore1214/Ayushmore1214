@@ -67,9 +67,6 @@
 
 ## 🏅 Achievements
 
-
-## 🏅 Achievements
-
 <p align="center">
   <!-- Meshery Continuous Contributor Badge -->
   <a href="https://cloud.layer5.io/user/694282e3-0c6b-4893-9bea-7ac2da1f5aae?tab=badges&badge=continuous-contributor">
