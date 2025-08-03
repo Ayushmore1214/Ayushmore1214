@@ -65,7 +65,7 @@
 
 ---
 
-## 🏅 Achievements
+## 🏅 My Badges 
 
 <p align="center">
   <!-- Meshery Continuous Contributor Badge -->
