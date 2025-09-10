@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me
 -  Diving deep into **DevOps**, **Cloud**, and Automation  
 -  Currently contributing to **Meshery**, **Backstage**, and other CNCF projects  
--  Love play with tools like **Docker**, **Kubernetes**, **Helm**, and **GitHub Actions**
+-  Love to play with tools like **Docker**, **Kubernetes**, **Helm**, and **GitHub Actions**
 -  Playing with infrastructure as code, clean workflows, and containerized apps  
 -  Always curious, always learning 
 
