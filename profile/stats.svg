@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Ayush More's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 31, Total Commits  (last year) : 314, Total PRs: 240, Total Issues: 62, Contributed to (last year): 15</desc>
+        <desc id="descId">Total Stars Earned: 32, Total Commits  (last year) : 317, Total PRs: 240, Total Issues: 62, Contributed to (last year): 15</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 80.49759754223332;
+        stroke-dashoffset: 79.72166864923042;
       }
     }
   
@@ -162,7 +162,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >31</text>
+      >32</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >314</text>
+      >317</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
