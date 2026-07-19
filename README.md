@@ -1,120 +1,32 @@
-<h1 align="center"> Hey, I'm Ayush More</h1>
+<!-- ─────────────────────────  TERMINAL  ───────────────────────── -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FFE3&center=true&vCenter=true&multiline=true&width=600&height=80&lines=DevOps+Enthusiast+%7C+Cloud+Learner;Open-Source+Contributor+%7C+CI%2FCD+Explorer;Building+Resilient+Infra+with+Modern+Tools!" alt="Typing SVG" />
+  <img src="./profile/terminal.svg" alt="Ayush More — neofetch terminal" width="980" />
 </p>
 
----
-
-## 👨‍💻 About Me
--  Diving deep into **DevOps**, **Cloud**, and Automation  
--  Currently contributing to **Meshery**, **Backstage**, and other CNCF projects  
--  Love to play with tools like **Docker**, **Kubernetes**, **Helm**, and **GitHub Actions**
--  Playing with infrastructure as code, clean workflows, and containerized apps  
--  Always curious, always learning 
-
----
-
-##  My Latest Blog Posts 👇
-
-<!-- HASHNODE_BLOG:START -->
-
-<p align="left">
-  <a href="https://heyyayush.hashnode.dev/kubernetes-101-a-no-nonsense-guide-from-one-beginner-to-another" title="Kubernetes 101">
-    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1748080123801/64463bf2-79c4-472c-8e43-429e0751af5c.png?w=800&h=420&fit=crop&crop=entropy&auto=compress,format&format=webp" width="250px" align="left" />
-  </a>
-  <a href="https://heyyayush.hashnode.dev/kubernetes-101-a-no-nonsense-guide-from-one-beginner-to-another" title="Kubernetes 101">
-    <strong>Kubernetes 101: A No-Nonsense Guide from One Beginner to Another</strong>
-  </a>
-  <br/> Beginner-friendly breakdown of Kubernetes with simple language and analogies. Great for anyone starting out in DevOps.
-</p>
-
-</br></br>
-
-<p align="left">
-  <a href="https://heyyayush.hashnode.dev/getting-started-with-github-actions-your-first-workflow-explained" title="GitHub Actions Beginner Guide" title="GitHub Actions Beginner Guide">
-    <img src="https://i.postimg.cc/Df4LYnk4/Github-Actions.webp?w=800&h=420&fit=crop&crop=entropy&auto=compress,format&format=webp" width="250px" align="left" />
-  </a>
-  <a href="https://heyyayush.hashnode.dev/getting-started-with-github-actions-your-first-workflow-explained" title="DevOps Journey">
-    <strong>Getting Started with GitHub Actions: Your First Workflow Explained</strong>
-  </a>
-  <br/> A beginner-friendly guide to GitHub Actions, CI/CD, and automating your Docker builds — with real examples and visuals.
-</p>
-</br>
-<br >
-<br />
-
-
-
-<!-- HASHNODE_BLOG:END -->
-
-## 📊 GitHub Stats
+<!-- ─────────────────────────  attached: writing (clickable)  ───────────────────────── -->
 
 <p align="center">
-  <img src="./profile/stats.svg" height="180" />
-  <img src="./profile/top-langs.svg" height="180" />
+  <a href="https://heyyayush.hashnode.dev/kubernetes-101-a-no-nonsense-guide-from-one-beginner-to-another"><img src="https://img.shields.io/badge/kubernetes--101.md-0d1117?style=for-the-badge&logo=hashnode&logoColor=56d4dd&labelColor=161b22"></a>
+  <a href="https://heyyayush.hashnode.dev/getting-started-with-github-actions-your-first-workflow-explained"><img src="https://img.shields.io/badge/github--actions--101.md-0d1117?style=for-the-badge&logo=hashnode&logoColor=9ece6a&labelColor=161b22"></a>
+</p>
+
+<!-- ─────────────────────────  attached: links  ───────────────────────── -->
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayush-more-3b4154341"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=56d4dd"></a>
+  <a href="https://github.com/Ayushmore1214"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3"></a>
+  <a href="https://heyyayush.hashnode.dev/"><img src="https://img.shields.io/badge/Blog-0d1117?style=for-the-badge&logo=hashnode&logoColor=9ece6a"></a>
+  <a href="mailto:ayushmore42595@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=febc2e"></a>
+</p>
+
+<!-- ─────────────────────────  attached: stats  ───────────────────────── -->
+
+<p align="center">
+  <img src="./profile/stats.svg" height="170" />
+  <img src="./profile/top-langs.svg" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ayushmore1214&theme=radical&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=Ayushmore1214&background=0d1117&border=30363d&stroke=30363d&ring=56d4dd&fire=56d4dd&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=56d4dd&sideLabels=adbac7&dates=6e7681&hide_border=false" />
 </p>
-
-
----
-
-## 🏅 My Badges 
-
-<p align="center">
-  <!-- Meshery Continuous Contributor Badge -->
-  <a href="https://cloud.layer5.io/user/694282e3-0c6b-4893-9bea-7ac2da1f5aae?tab=badges&badge=continuous-contributor">
-    <img src="https://badges.layer5.io/assets/badges/continuous-contributor/continuous-contributor.png" width="135" alt="Meshery Continuous Contributor Badge" />
-  </a>
-  <!-- Spacer between badges -->
-  <span style="display:inline-block; width:40px;"></span>
-  <!-- Meshery First Design Badge -->
-  <a href="https://cloud.layer5.io/user/694282e3-0c6b-4893-9bea-7ac2da1f5aae?tab=badges&badge=first-design">
-    <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" width="135" alt="First Design Badge" />
-  </a>
-  <span style="display:inline-block; width:40px;"></span>
-  <!-- Google Cloud Skills Boost Badge -->
-  <a href="https://www.cloudskillsboost.google/public_profiles/3dfa269f-41d4-419b-be2e-2074dc58fb33/badges/15764200">
-    <img src="https://cdn.qwiklabs.com/O01WKPeJJ8talId8ve4oS25vRvPNXf4RelBOyzDWxUo%3D" width="135" alt="Google Cloud Skills Boost Badge" />
-  </a>
-</p>
-
-<p align="center">
-  <b>Meshery Continuous Contributor</b>
-  <span style="display:inline-block; width:18px;"></span>
-  <b>|</b>
-  <span style="display:inline-block; width:18px;"></span>
-  <b>Meshery First Design</b>
-  <span style="display:inline-block; width:18px;"></span>
-  <b>|</b>
-  <span style="display:inline-block; width:18px;"></span>
-  <b>Google Cloud Skills Boost</b>
-</p>
-
-
-## ⚡ Fun Fact  
-> My go-to fix for CI pipeline failures? A cup of chai, deep breath, and another `git push` ☕
-
----
-
-## 🔗 Connect with Me
-<p align="center">
-  <a href="mailto:ayushmore42595@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/ayush-more-3b4154341"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Ayushmore1214"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://heyyayush.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&height=140&section=footer" />
-</p>
-
-
-
-
-
